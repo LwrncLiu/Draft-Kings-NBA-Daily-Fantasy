@@ -1,12 +1,4 @@
-# Draft-Kings-NBA-Daily-Fantasy
-Tools for NBA daily fantasy
+# NBA-Daily-Fantasy
+Exploring the possibilities for streamling NBA daily fantasy decisions :')
 
-Data visualizations, and optimizations on Jupyter Notebook
-
-Required packages:
-- pandas
-- numpy
-- nba_api
-- ipywidgets
-- matplotlib
-- seaborn
+Data Visualizations, Game Simulations, Trend Detections, Lineup Creation, One-Pager (multi-pager) Team Synopsis
